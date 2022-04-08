@@ -1,11 +1,5 @@
-#
-# Info: IP Block List ECC
-# Updated: 4/8/2022  
-# 
-#
-#
-# BC1 Crypto mine block #
-5.2.69.14/32
+5.2.69.14/32 # Start BC Crypto mine block list
+5.2.69.14/32 
 5.254.43.18/32
 24.223.109.139/32
 24.243.111.170/32
