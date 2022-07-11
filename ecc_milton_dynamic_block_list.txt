@@ -107,4 +107,7 @@
 # Start-China-Spray-BLCK-6/29/22#
 117.44.85.212/32
 117.44.85.126/32
-# Start-China-Spray-BLCK-6/29/22#
+# End-China-Spray-BLCK-6/29/22#
+# Block-EXCH16-REDIR-7/11/22#
+199.34.228.53
+# End-Block-EXCH16-REDIR-7/11/22#
