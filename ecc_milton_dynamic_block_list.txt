@@ -1,4 +1,4 @@
-# ECC-Milton-Sec Dynamic IP Block List
+# THunter Dynamic IP Block List
 # Updated Date: 3/25/26
 # Comment Notes, Servrity Level, Block Date, 
 
